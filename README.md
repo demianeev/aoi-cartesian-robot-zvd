@@ -1,2 +1,2 @@
 # aoi-cartesian-robot-zvd
-ZVD input shaping for vibration suppression in a belt-driven PPP Cartesian AOI robot — ESP32 firmware, MATLAB system ID, and experimental validation
+ESP32-based ZVD input shaper for a PPP Cartesian AOI robot — reduces post-stop residual vibration by up to 79% without hardware changes. Includes firmware, MATLAB system ID scripts, and full experimental dataset.
