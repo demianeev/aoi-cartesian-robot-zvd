@@ -133,6 +133,12 @@ See **[`docs/how_to_use.md`](docs/how_to_use.md)** for the full step-by-step gui
 
 ---
 
+## Paper
+
+📄 **[Download the full paper (PDF)](https://github.com/demianeev/aoi-cartesian-robot-zvd/blob/main/B260177.pdf)**
+
+---
+
 ## Authors
 
 - **Demian Escurra**
@@ -152,4 +158,4 @@ National Taiwan University of Science and Technology, Taipei, Taiwan
 
 This project is released for academic use. If you use this work in your own research or capstone project, please cite the original paper:
 
-> Escurra, D.; Prieto, L.M.; Vázquez, L.E.; Liang, S.H.; Altius, M. *Input Shaping for Robust Vibration Suppression in PPP Cartesian Robots with Variable Z-Axis Dynamics for Automated Optical Inspection.* Presented at ICEIB 2026, Tamkang University, Taiwan.
+> Escurra, D.; Prieto, L.M.; Vázquez, L.E.; Liang, S.H.; Altius, M. *Input Shaping for Robust Vibration Suppression in PPP Cartesian Robots with Variable Z-Axis Dynamics for Automated Optical Inspection.* Presented at ICEIB 2026, Tamkang University, Taiwan. [📄 PDF](https://github.com/demianeev/aoi-cartesian-robot-zvd/blob/main/B260177.pdf)
