@@ -1,4 +1,4 @@
-# ZVD Input Shaping for AOI Cartesian Robots
+CAC# ZVD Input Shaping for AOI Cartesian Robots
 
 **Capstone Project — Graduate Institute of Intelligent Manufacturing Technology**  
 **National Taiwan University of Science and Technology (NTUST)**
@@ -40,8 +40,8 @@ ESP32
 The ZVD shaper convolves the trapezoidal position command with a 3-impulse sequence, computed from the experimentally identified natural frequency (fₙ) and damping ratio (ζ) of each axis configuration.
 
 ### Robot Photos & CAD
-
-![Robot CAD](docs/img/robot_cad.jpeg)
+<img width="1600" height="1600" alt="Real robot" src="https://github.com/user-attachments/assets/4bc12d8f-0bfc-4691-ac94-f43925627ef1" />
+<img width="1600" height="994" alt="Robot CAD" src="https://github.com/user-attachments/assets/7bfcc0ef-b7e6-4d8f-81ab-1730c76f3805" />
 
 ---
 
